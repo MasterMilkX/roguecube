@@ -1,0 +1,11 @@
+13TH MONTH Controls
+
+L/R ArrowKeys  	- Move
+Up Arrow	- Climb up (on wall)
+Down Arrow	- Climb down (on wall) - Kick (in air) - Duck (idle)
+Z		- Sprint
+X		- Jump
+C		- Shoot
+A		- Block
+S/D		- Toggle Weapon
+

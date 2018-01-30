@@ -1,0 +1,9 @@
+DUNGEONER'S GAME Controls
+
+ARROW KEYS  	- Move
+ENTER		- Toggle start screen
+Z		- Talk / interact
+X		- Previous / Attack
+S		- Block
+A		- Run
+T		- Toggle clock

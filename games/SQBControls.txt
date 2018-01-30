@@ -1,0 +1,8 @@
+SUPER QUAD BLOCKS Controls
+
+ARROW KEYS / WASD 	- Move
+MOUSE 			- Move Camera
+LEFT MOUSE BUTTON	- Shoot
+SPACE			- Jump / Double Jump
+Q			- Toggle between First Person and Third Person
+ESC			- Pause Game
